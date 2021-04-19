@@ -1,0 +1,3 @@
+[submodule "compy"]
+	path = compy
+	url = git@github.com:kafouros/python-common.git
